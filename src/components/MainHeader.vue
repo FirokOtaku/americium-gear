@@ -12,9 +12,9 @@
 
 		<button class="circle transparent">
 			<i class="extra">
-				<img src="CF_logomark_singlecolor_blk.svg" alt="cloudflare-logo"
+				<img src="/CF_logomark_singlecolor_blk.svg" alt="cloudflare-logo"
 				     v-if="cw === 'cloudflare-pages' || cw === 'cloudflare-pages-custom-domain'">
-				<img src="github-mark.svg" alt="github-logo"
+				<img src="/github-mark.svg" alt="github-logo"
 				     v-else-if="cw === 'github-pages'">
 				<template v-else-if="cw === 'localhost'">api</template>
 				<template v-else>help</template>
