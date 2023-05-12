@@ -30,9 +30,18 @@
 			</div>
 
 			<div class="dropdown no-wrap left">
-				<a v-if="cw !== 'github-pages'" href="https://firokotaku.github.io/astatine-gear/">切换至 GitHub Pages 访问</a>
-				<a v-if="cw !== 'cloudflare-pages'" href="https://astatine-gear.pages.dev/astatine-gear/">切换至 Cloudflare Pages 访问</a>
-				<a v-if="cw !== 'cloudflare-pages-custom-domain'" href="http://astatine-gear.firok.space/astatine-gear/">切换至 Cloudflare Pages (自定义域名) 访问</a>
+				<a v-if="cw !== 'github-pages'" href="https://firokotaku.github.io/astatine-gear/">
+					<i class="small">arrow_circle_right</i>
+					切换至 GitHub Pages 访问
+				</a>
+				<a v-if="cw !== 'cloudflare-pages'" href="https://astatine-gear.pages.dev/astatine-gear/">
+					<i class="small">arrow_circle_right</i>
+					切换至 Cloudflare Pages 访问
+				</a>
+				<a v-if="cw !== 'cloudflare-pages-custom-domain'" href="http://astatine-gear.firok.space/astatine-gear/">
+					<i class="small">arrow_circle_right</i>
+					切换至 Cloudflare Pages (自定义域名) 访问
+				</a>
 			</div>
 		</button>
 	</nav>
