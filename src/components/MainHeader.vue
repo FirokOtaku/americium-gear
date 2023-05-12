@@ -12,9 +12,9 @@
 
 		<button class="circle transparent">
 			<i class="extra">
-				<img src="/CF_logomark_singlecolor_blk.svg" alt="cloudflare-logo"
+				<img src="./CF_logomark_singlecolor_blk.svg" alt="cloudflare-logo"
 				     v-if="cw === 'cloudflare-pages' || cw === 'cloudflare-pages-custom-domain'">
-				<img src="/github-mark.svg" alt="github-logo"
+				<img src="./github-mark.svg" alt="github-logo"
 				     v-else-if="cw === 'github-pages'">
 				<template v-else-if="cw === 'localhost'">api</template>
 				<template v-else>help</template>
@@ -31,7 +31,7 @@
 
 			<div class="dropdown no-wrap left">
 				<a v-if="cw !== 'github-pages'" href="https://americium-gear.firok.github.io">切换至 GitHub Pages 访问</a>
-				<a v-if="cw !== 'cloudflare-pages'" href="https://americium-gear.firok.workers.dev/">切换至 Cloudflare Pages 访问</a>
+				<a v-if="cw !== 'cloudflare-pages'" href="https://americium-gear.pages.dev/americium-gear">切换至 Cloudflare Pages 访问</a>
 				<a v-if="cw !== 'cloudflare-pages-custom-domain'" href="http://americium-gear.firok.space/">切换至 Cloudflare Pages (自定义域名) 访问</a>
 			</div>
 		</button>
