@@ -56,18 +56,18 @@ body { font-family: HYWH35W, HYWH45W, HYWH55S, HYWH65W, HYWH75W, HYWH85W }
 按字重单独下载:
 
 <div class="grid">
-<a class="s4 m4 l2" href="./font-hywh/HYWenHei-35W.ttf"> <button class="responsive small"> <i>lab_profile</i> 35W</button> </a>
-<a class="s4 m4 l2" href="./font-hywh/HYWenHei-45W.ttf"> <button class="responsive small"> <i>lab_profile</i> 45W</button> </a>
-<a class="s4 m4 l2" href="./font-hywh/HYWenHei-55S.ttf"> <button class="responsive small"> <i>lab_profile</i> 55S</button> </a>
-<a class="s4 m4 l2" href="./font-hywh/HYWenHei-65W.ttf"> <button class="responsive small"> <i>lab_profile</i> 65W</button> </a>
-<a class="s4 m4 l2" href="./font-hywh/HYWenHei-75W.ttf"> <button class="responsive small"> <i>lab_profile</i> 75W</button> </a>
-<a class="s4 m4 l2" href="./font-hywh/HYWenHei-85W.ttf"> <button class="responsive small"> <i>lab_profile</i> 85W</button> </a>
+<a class="s4 m4 l2" href="/americium-gear/font-hywh/HYWenHei-35W.ttf"> <button class="responsive small"> <i>lab_profile</i> 35W</button> </a>
+<a class="s4 m4 l2" href="/americium-gear/font-hywh/HYWenHei-45W.ttf"> <button class="responsive small"> <i>lab_profile</i> 45W</button> </a>
+<a class="s4 m4 l2" href="/americium-gear/font-hywh/HYWenHei-55S.ttf"> <button class="responsive small"> <i>lab_profile</i> 55S</button> </a>
+<a class="s4 m4 l2" href="/americium-gear/font-hywh/HYWenHei-65W.ttf"> <button class="responsive small"> <i>lab_profile</i> 65W</button> </a>
+<a class="s4 m4 l2" href="/americium-gear/font-hywh/HYWenHei-75W.ttf"> <button class="responsive small"> <i>lab_profile</i> 75W</button> </a>
+<a class="s4 m4 l2" href="/americium-gear/font-hywh/HYWenHei-85W.ttf"> <button class="responsive small"> <i>lab_profile</i> 85W</button> </a>
 </div>
 
 打包下载所有:
 
 <div class="grid">
-<a class="s12 m12 l4" href="./font-hywh/hywh.7z"> <button class="responsive small"> <i>folder_zip</i> 汉仪文黑.7z</button> </a>
+<a class="s12 m12 l4" href="/americium-gear/font-hywh/hywh.7z"> <button class="responsive small"> <i>folder_zip</i> 汉仪文黑.7z</button> </a>
 </div>
 
 `
