@@ -30,9 +30,9 @@
 			</div>
 
 			<div class="dropdown no-wrap left">
-				<a v-if="cw !== 'github-pages'" href="https://firokotaku.github.io/americium-gear/">切换至 GitHub Pages 访问</a>
-				<a v-if="cw !== 'cloudflare-pages'" href="https://americium-gear.pages.dev/americium-gear/">切换至 Cloudflare Pages 访问</a>
-				<a v-if="cw !== 'cloudflare-pages-custom-domain'" href="http://americium-gear.firok.space/americium-gear/">切换至 Cloudflare Pages (自定义域名) 访问</a>
+				<a v-if="cw !== 'github-pages'" href="https://firokotaku.github.io/astatine-gear/">切换至 GitHub Pages 访问</a>
+				<a v-if="cw !== 'cloudflare-pages'" href="https://astatine-gear.pages.dev/astatine-gear/">切换至 Cloudflare Pages 访问</a>
+				<a v-if="cw !== 'cloudflare-pages-custom-domain'" href="http://astatine-gear.firok.space/astatine-gear/">切换至 Cloudflare Pages (自定义域名) 访问</a>
 			</div>
 		</button>
 	</nav>
@@ -49,11 +49,11 @@ const cw = computed(() => {
 	{
 		return 'localhost'
 	}
-	else if(Origin.indexOf('worker.dev') >= 0 || Origin.indexOf('pages.dev') >= 0) // https://americium-gear.firok.workers.dev/
+	else if(Origin.indexOf('worker.dev') >= 0 || Origin.indexOf('pages.dev') >= 0) // https://astatine-gear.firok.workers.dev/
 	{
 		return 'cloudflare-pages'
 	}
-	else if(Origin.indexOf('firok.space') >= 0) // http://americium-gear.firok.space/
+	else if(Origin.indexOf('firok.space') >= 0) // http://astatine-gear.firok.space/
 	{
 		return 'cloudflare-pages-custom-domain'
 	}

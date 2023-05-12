@@ -7,6 +7,6 @@
 
 在线访问:
 
-* [GitHub Pages 源](https://americium-gear.firok.github.io)
-* [Cloudflare Pages 源](https://americium-gear.firok.workers.dev)
-* [Cloudflare Pages (自定义域名) 源](http://americium-gear.firok.space)
+* [GitHub Pages 源](https://astatine-gear.firok.github.io)
+* [Cloudflare Pages 源](https://astatine-gear.firok.workers.dev)
+* [Cloudflare Pages (自定义域名) 源](http://astatine-gear.firok.space)
