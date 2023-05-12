@@ -32,7 +32,7 @@
 			<div class="dropdown no-wrap left">
 				<a v-if="cw !== 'github-pages'" href="https://firokotaku.github.io/americium-gear/">切换至 GitHub Pages 访问</a>
 				<a v-if="cw !== 'cloudflare-pages'" href="https://americium-gear.pages.dev/americium-gear/">切换至 Cloudflare Pages 访问</a>
-				<a v-if="cw !== 'cloudflare-pages-custom-domain'" href="http://americium-gear.firok.space/">切换至 Cloudflare Pages (自定义域名) 访问</a>
+				<a v-if="cw !== 'cloudflare-pages-custom-domain'" href="http://americium-gear.firok.space/americium-gear/">切换至 Cloudflare Pages (自定义域名) 访问</a>
 			</div>
 		</button>
 	</nav>
@@ -45,11 +45,11 @@ import {computed} from "vue";
 defineEmits(['sp'])
 
 const cw = computed(() => {
-	if(Origin.indexOf('localhost') >= 0 || Origin.indexOf('127.0') >= 0)
+	if(Origin.indexOf('localhost') >= 0 || Origin.indexOf('127.0') >= 0 || Origin.indexOf('192.168') >= 0)
 	{
 		return 'localhost'
 	}
-	else if(Origin.indexOf('worker.dev') >= 0) // https://americium-gear.firok.workers.dev/
+	else if(Origin.indexOf('worker.dev') >= 0 || Origin.indexOf('pages.dev') >= 0) // https://americium-gear.firok.workers.dev/
 	{
 		return 'cloudflare-pages'
 	}
