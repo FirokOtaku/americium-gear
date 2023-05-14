@@ -1,0 +1,59 @@
+v
+/* https://astatine-gear.firok.space/ */
+
+@font-face {
+    font-family: SourceCodePro-Black;
+    src: url("TTF/SourceCodePro-Black.ttf");
+}
+@font-face {
+    font-family: SourceCodePro-BlackIt;
+    src: url("TTF/SourceCodePro-BlackIt.ttf");
+}
+@font-face {
+    font-family: SourceCodePro-Bold;
+    src: url("TTF/SourceCodePro-Bold.ttf");
+}
+@font-face {
+    font-family: SourceCodePro-BoldIt;
+    src: url("TTF/SourceCodePro-BoldIt.ttf");
+}
+@font-face {
+    font-family: SourceCodePro-ExtraLight;
+    src: url("font-source-code-pro/TTF/SourceCodePro-ExtraLight.ttf");
+}
+@font-face {
+    font-family: SourceCodePro-ExtraLightIt;
+    src: url("font-source-code-pro/TTF/SourceCodePro-ExtraLightIt.ttf");
+}
+@font-face {
+    font-family: SourceCodePro-It;
+    src: url("font-source-code-pro/TTF/SourceCodePro-It.ttf");
+}
+@font-face {
+    font-family: SourceCodePro-Light;
+    src: url("font-source-code-pro/TTF/SourceCodePro-Light.ttf");
+}
+@font-face {
+    font-family: SourceCodePro-LightIt;
+    src: url("font-source-code-pro/TTF/SourceCodePro-LightIt.ttf");
+}
+@font-face {
+    font-family: SourceCodePro-Medium;
+    src: url("font-source-code-pro/TTF/SourceCodePro-Medium.ttf");
+}
+@font-face {
+    font-family: SourceCodePro-MediumIt;
+    src: url("font-source-code-pro/TTF/SourceCodePro-MediumIt.ttf");
+}
+@font-face {
+    font-family: SourceCodePro-Regular;
+    src: url("font-source-code-pro/TTF/SourceCodePro-Regular.ttf");
+}
+@font-face {
+    font-family: SourceCodePro-Semibold;
+    src: url("font-source-code-pro/TTF/SourceCodePro-Semibold.ttf");
+}
+@font-face {
+    font-family: SourceCodePro-SemiboldIt;
+    src: url("font-source-code-pro/TTF/SourceCodePro-SemiboldIt.ttf");
+}
