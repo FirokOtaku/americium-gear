@@ -44,12 +44,12 @@ dl
 			<div>按字重单独下载:</div>
 
 			<div class="grid">
-				<a class="s4 m4 l2" href="/astatine-gear/font-hywh/HYWenHei-35W.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> 35W</button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-hywh/HYWenHei-45W.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> 45W</button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-hywh/HYWenHei-55S.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> 55S</button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-hywh/HYWenHei-65W.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> 65W</button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-hywh/HYWenHei-75W.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> 75W</button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-hywh/HYWenHei-85W.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> 85W</button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-hywh/HYWenHei-35W.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> 35W</button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-hywh/HYWenHei-45W.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> 45W</button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-hywh/HYWenHei-55S.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> 55S</button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-hywh/HYWenHei-65W.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> 65W</button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-hywh/HYWenHei-75W.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> 75W</button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-hywh/HYWenHei-85W.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> 85W</button> </a>
 			</div>
 
 			<div class="space"></div>
@@ -95,20 +95,20 @@ dl
 			<div>单独下载:</div>
 
 			<div class="grid">
-				<a class="s4 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-Black.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> Black </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-BlackIt.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> BlackIt </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-Bold.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> Bold </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-BoldIt.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> BoldIt </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-ExtraLight.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> ExtraLight </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-ExtraLightIt.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> ExtraLightIt </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-It.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> It </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-Light.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> Light </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-LightIt.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> LightIt </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-Medium.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> Medium </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-MediumIt.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> MediumIt </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-Regular.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> Regular </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-Semibold.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> Semibold </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-SemiboldIt.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> SemiboldIt </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-Black.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> Black </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-BlackIt.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> BlackIt </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-Bold.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> Bold </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-BoldIt.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> BoldIt </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-ExtraLight.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> ExtraLight </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-ExtraLightIt.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> ExtraLightIt </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-It.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> It </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-Light.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> Light </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-LightIt.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> LightIt </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-Medium.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> Medium </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-MediumIt.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> MediumIt </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-Regular.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> Regular </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-Semibold.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> Semibold </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-source-code-pro/TTF/SourceCodePro-SemiboldIt.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> SemiboldIt </button> </a>
 			</div>
 
 			<div class="space"></div>
@@ -154,30 +154,30 @@ dl
 			<div>单独下载:</div>
 
 			<div class="grid">
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-400-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-400-italic </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-400-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-400-normal </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-500-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-500-italic </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-500-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-500-normal </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-600-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-600-italic </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-600-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-600-normal </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-700-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-700-italic </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-700-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-700-normal </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-400-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-400-italic </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-400-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-400-normal </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-500-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-500-italic </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-500-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-500-normal </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-600-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-600-italic </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-600-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-600-normal </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-700-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-700-italic </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-700-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-700-normal </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-400-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-400-italic </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-400-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-400-normal </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-500-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-500-italic </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-500-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-500-normal </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-600-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-600-italic </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-600-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-600-normal </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-700-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-700-italic </button> </a>
-				<a class="s4 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-700-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-700-normal </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-400-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-400-italic </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-400-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-400-normal </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-500-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-500-italic </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-500-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-500-normal </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-600-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-600-italic </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-600-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-600-normal </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-700-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-700-italic </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-700-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-700-normal </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-400-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-400-italic </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-400-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-400-normal </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-500-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-500-italic </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-500-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-500-normal </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-600-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-600-italic </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-600-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-600-normal </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-700-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-700-italic </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-latin-ext-700-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> latin-ext-700-normal </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-400-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-400-italic </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-400-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-400-normal </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-500-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-500-italic </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-500-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-500-normal </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-600-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-600-italic </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-600-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-600-normal </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-700-italic.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-700-italic </button> </a>
+				<a class="s12 m4 l2" href="/astatine-gear/font-cabin/ttf/cabin-vietnamese-700-normal.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> vietnamese-700-normal </button> </a>
 			</div>
 
 			<div class="space"></div>
