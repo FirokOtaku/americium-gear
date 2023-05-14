@@ -190,6 +190,8 @@ dl
 		</details>
 	</article>
 
+	<div class="large-space"></div>
+	<div class="large-space"></div>
 </div>
 </template>
 
