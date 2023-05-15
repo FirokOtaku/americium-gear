@@ -1,99 +1,99 @@
-/* this file was created and served Astatine Gear */
+/* this file was created and served by Astatine Gear */
 /* https://astatine-gear.firok.space/ */
 
 @font-face {
     font-family: cabin-latin-400-italic;
-    src: url("font-cabin/ttf/cabin-latin-400-italic.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-400-italic.ttf");
 }
 @font-face {
     font-family: cabin-latin-400-normal;
-    src: url("font-cabin/ttf/cabin-latin-400-normal.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-400-normal.ttf");
 }
 @font-face {
     font-family: cabin-latin-500-italic;
-    src: url("font-cabin/ttf/cabin-latin-500-italic.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-500-italic.ttf");
 }
 @font-face {
     font-family: cabin-latin-500-normal;
-    src: url("font-cabin/ttf/cabin-latin-500-normal.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-500-normal.ttf");
 }
 @font-face {
     font-family: cabin-latin-600-italic;
-    src: url("font-cabin/ttf/cabin-latin-600-italic.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-600-italic.ttf");
 }
 @font-face {
     font-family: cabin-latin-600-normal;
-    src: url("font-cabin/ttf/cabin-latin-600-normal.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-600-normal.ttf");
 }
 @font-face {
     font-family: cabin-latin-700-italic;
-    src: url("font-cabin/ttf/cabin-latin-700-italic.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-700-italic.ttf");
 }
 @font-face {
     font-family: cabin-latin-700-normal;
-    src: url("font-cabin/ttf/cabin-latin-700-normal.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-700-normal.ttf");
 }
 @font-face {
     font-family: cabin-latin-ext-400-italic;
-    src: url("font-cabin/ttf/cabin-latin-ext-400-italic.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-ext-400-italic.ttf");
 }
 @font-face {
     font-family: cabin-latin-ext-400-normal;
-    src: url("font-cabin/ttf/cabin-latin-ext-400-normal.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-ext-400-normal.ttf");
 }
 @font-face {
     font-family: cabin-latin-ext-500-italic;
-    src: url("font-cabin/ttf/cabin-latin-ext-500-italic.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-ext-500-italic.ttf");
 }
 @font-face {
     font-family: cabin-latin-ext-500-normal;
-    src: url("font-cabin/ttf/cabin-latin-ext-500-normal.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-ext-500-normal.ttf");
 }
 @font-face {
     font-family: cabin-latin-ext-600-italic;
-    src: url("font-cabin/ttf/cabin-latin-ext-600-italic.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-ext-600-italic.ttf");
 }
 @font-face {
     font-family: cabin-latin-ext-600-normal;
-    src: url("font-cabin/ttf/cabin-latin-ext-600-normal.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-ext-600-normal.ttf");
 }
 @font-face {
     font-family: cabin-latin-ext-700-italic;
-    src: url("font-cabin/ttf/cabin-latin-ext-700-italic.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-ext-700-italic.ttf");
 }
 @font-face {
     font-family: cabin-latin-ext-700-normal;
-    src: url("font-cabin/ttf/cabin-latin-ext-700-normal.ttf");
+    src: url("./font-cabin/ttf/cabin-latin-ext-700-normal.ttf");
 }
 @font-face {
     font-family: cabin-vietnamese-400-italic;
-    src: url("font-cabin/ttf/cabin-vietnamese-400-italic.ttf");
+    src: url("./font-cabin/ttf/cabin-vietnamese-400-italic.ttf");
 }
 @font-face {
     font-family: cabin-vietnamese-400-normal;
-    src: url("font-cabin/ttf/cabin-vietnamese-400-normal.ttf");
+    src: url("./font-cabin/ttf/cabin-vietnamese-400-normal.ttf");
 }
 @font-face {
     font-family: cabin-vietnamese-500-italic;
-    src: url("font-cabin/ttf/cabin-vietnamese-500-italic.ttf");
+    src: url("./font-cabin/ttf/cabin-vietnamese-500-italic.ttf");
 }
 @font-face {
     font-family: cabin-vietnamese-500-normal;
-    src: url("font-cabin/ttf/cabin-vietnamese-500-normal.ttf");
+    src: url("./font-cabin/ttf/cabin-vietnamese-500-normal.ttf");
 }
 @font-face {
     font-family: cabin-vietnamese-600-italic;
-    src: url("font-cabin/ttf/cabin-vietnamese-600-italic.ttf");
+    src: url("./font-cabin/ttf/cabin-vietnamese-600-italic.ttf");
 }
 @font-face {
     font-family: cabin-vietnamese-600-normal;
-    src: url("font-cabin/ttf/cabin-vietnamese-600-normal.ttf");
+    src: url("./font-cabin/ttf/cabin-vietnamese-600-normal.ttf");
 }
 @font-face {
     font-family: cabin-vietnamese-700-italic;
-    src: url("font-cabin/ttf/cabin-vietnamese-700-italic.ttf");
+    src: url("./font-cabin/ttf/cabin-vietnamese-700-italic.ttf");
 }
 @font-face {
     font-family: cabin-vietnamese-700-normal;
-    src: url("font-cabin/ttf/cabin-vietnamese-700-normal.ttf");
+    src: url("./font-cabin/ttf/cabin-vietnamese-700-normal.ttf");
 }

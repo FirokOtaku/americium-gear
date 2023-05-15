@@ -69,8 +69,8 @@ import {computed} from "vue";
 defineEmits(['sp'])
 const listChangelog = computed(() => {
 	return [
-		{ date: '2023-05-14', title: '增加字体资源', desc: `汉仪文黑<br>Cabin` },
-		{ date: '2023-05-12', title: '增加字体资源', desc: `Source Code Pro` },
+		{ date: '2023-05-14', title: '增加字体资源', desc: `Source Code Pro<br>Cabin` },
+		{ date: '2023-05-12', title: '增加字体资源', desc: `汉仪文黑` },
 	]
 })
 </script>

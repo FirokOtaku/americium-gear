@@ -1,21 +1,21 @@
-v
+/* this file was created and served by Astatine Gear */
 /* https://astatine-gear.firok.space/ */
 
 @font-face {
     font-family: SourceCodePro-Black;
-    src: url("TTF/SourceCodePro-Black.ttf");
+    src: url("./font-source-code-pro/TTF/SourceCodePro-Black.ttf");
 }
 @font-face {
     font-family: SourceCodePro-BlackIt;
-    src: url("TTF/SourceCodePro-BlackIt.ttf");
+    src: url("./font-source-code-pro/TTF/SourceCodePro-BlackIt.ttf");
 }
 @font-face {
     font-family: SourceCodePro-Bold;
-    src: url("TTF/SourceCodePro-Bold.ttf");
+    src: url("./font-source-code-pro/TTF/SourceCodePro-Bold.ttf");
 }
 @font-face {
     font-family: SourceCodePro-BoldIt;
-    src: url("TTF/SourceCodePro-BoldIt.ttf");
+    src: url("./font-source-code-pro/TTF/SourceCodePro-BoldIt.ttf");
 }
 @font-face {
     font-family: SourceCodePro-ExtraLight;
