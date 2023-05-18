@@ -4,19 +4,9 @@
 {
 	height: calc(100vh - 64px);
 }
-
-.slide-fade-enter-active {
-	transition: opacity 0.8s ease-in;
-}
-
-.slide-fade-leave-active {
-	transition: opacity 0.6s ease-in;
-}
-
-.slide-fade-enter-from,
-.slide-fade-leave-to {
-	opacity: 0;
-}
+.slide-fade-enter-active { transition: opacity 0.8s ease-in; }
+.slide-fade-leave-active { transition: opacity 0.6s ease-in; }
+.slide-fade-enter-from, .slide-fade-leave-to { opacity: 0; }
 </style>
 
 <template>
