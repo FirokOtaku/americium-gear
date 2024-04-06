@@ -190,6 +190,54 @@ dl
 		</details>
 	</article>
 
+	<article class="blur">
+		<details>
+			<summary class="none">
+				<div class="row">
+					<div class="max">
+						<h5 class="text-shadow">Unifont</h5>
+						<div>中文, 英文, 通用字体</div>
+					</div>
+					<i>arrow_drop_down</i>
+				</div>
+			</summary>
+		</details>
+
+		<div class="medium-space"></div>
+
+		<a class="chip medium-elevate small primary" href="https://unifoundry.com/index.html" target="_blank">
+			<i class="small">home</i>
+			<span>官网</span>
+		</a>
+
+		<a class="chip medium-elevate small">
+			<i class="small">credit_card</i>
+			<span>GNU GPL v2</span>
+		</a>
+
+		<h4>标签引入</h4>
+
+		<code lang="html" ref="domUnifontUsage"></code>
+
+		<h4>直接下载</h4>
+
+		<div>单独下载:</div>
+
+		<div class="grid">
+			<a class="s12 m6 l6" href="/astatine-gear/font-unifont/unifont-15.1.04.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> unifont-ttf </button> </a>
+			<a class="s12 m6 l6" href="/astatine-gear/font-unifont/unifont-15.1.04.otf"> <button class="responsive small elevate"> <i>lab_profile</i> unifont-otf </button> </a>
+		</div>
+
+		<div class="space"></div>
+
+		<div>打包下载所有:</div>
+
+		<div class="grid">
+			<a class="s12 m12 l4" href="/astatine-gear/font-unifont/unifont-15.1.04.7z"> <button class="responsive small elevate"> <i>folder_zip</i> unifont-15.1.04.zip</button> </a>
+		</div>
+
+	</article>
+
 	<div class="large-space"></div>
 	<div class="large-space"></div>
 </div>
@@ -197,11 +245,11 @@ dl
 
 <script setup>
 import {onMounted, ref} from 'vue'
-import {marked} from 'marked'
 
 const domHywhUsage = ref()
 const domSCPUsage = ref()
 const domCabinUsage = ref()
+const domUnifontUsage = ref()
 onMounted(() => {
 	domHywhUsage.value.innerText = `<!-- 在 HTML 中引入 -->
 <link rel="stylesheet" href="${window.location.origin}/astatine-gear/font-hywh.css" />
@@ -252,6 +300,17 @@ onMounted(() => {
   cabin-latin-ext-400-normal
 	}
 </style>`
+
+	domUnifontUsage.value.innerText = `<link rel="stylesheet" href="${window.location.origin}/astatine-gear/font-unifont.css" />
+
+<!-- 然后在 style 中声明字体 -->
+<!-- 引入下述其一即可 -->
+<style>
+  body { font-family:
+  unifont-otf, unifont-ttf
+	}
+</style>
+`
 })
 
 

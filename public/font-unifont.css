@@ -1,0 +1,11 @@
+/* this file was created and served by Astatine Gear */
+/* https://astatine-gear.firok.space/ */
+
+@font-face {
+    font-family: unifont-ttf;
+    src: url("./font-unifont/unifont-15.1.04.ttf");
+}
+@font-face {
+    font-family: unifont-otf;
+    src: url("./font-unifont/unifont-15.1.04.otf") format('opentype');
+}
