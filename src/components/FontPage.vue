@@ -201,41 +201,40 @@ dl
 					<i>arrow_drop_down</i>
 				</div>
 			</summary>
+
+			<div class="medium-space"></div>
+
+			<a class="chip medium-elevate small primary" href="https://unifoundry.com/index.html" target="_blank">
+				<i class="small">home</i>
+				<span>官网</span>
+			</a>
+
+			<a class="chip medium-elevate small">
+				<i class="small">credit_card</i>
+				<span>GNU GPL v2</span>
+			</a>
+
+			<h4>标签引入</h4>
+
+			<code lang="html" ref="domUnifontUsage"></code>
+
+			<h4>直接下载</h4>
+
+			<div>单独下载:</div>
+
+			<div class="grid">
+				<a class="s12 m6 l6" href="/astatine-gear/font-unifont/unifont-15.1.04.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> unifont-ttf </button> </a>
+				<a class="s12 m6 l6" href="/astatine-gear/font-unifont/unifont-15.1.04.otf"> <button class="responsive small elevate"> <i>lab_profile</i> unifont-otf </button> </a>
+			</div>
+
+			<div class="space"></div>
+
+			<div>打包下载所有:</div>
+
+			<div class="grid">
+				<a class="s12 m12 l4" href="/astatine-gear/font-unifont/unifont-15.1.04.7z"> <button class="responsive small elevate"> <i>folder_zip</i> unifont-15.1.04.zip</button> </a>
+			</div>
 		</details>
-
-		<div class="medium-space"></div>
-
-		<a class="chip medium-elevate small primary" href="https://unifoundry.com/index.html" target="_blank">
-			<i class="small">home</i>
-			<span>官网</span>
-		</a>
-
-		<a class="chip medium-elevate small">
-			<i class="small">credit_card</i>
-			<span>GNU GPL v2</span>
-		</a>
-
-		<h4>标签引入</h4>
-
-		<code lang="html" ref="domUnifontUsage"></code>
-
-		<h4>直接下载</h4>
-
-		<div>单独下载:</div>
-
-		<div class="grid">
-			<a class="s12 m6 l6" href="/astatine-gear/font-unifont/unifont-15.1.04.ttf"> <button class="responsive small elevate"> <i>lab_profile</i> unifont-ttf </button> </a>
-			<a class="s12 m6 l6" href="/astatine-gear/font-unifont/unifont-15.1.04.otf"> <button class="responsive small elevate"> <i>lab_profile</i> unifont-otf </button> </a>
-		</div>
-
-		<div class="space"></div>
-
-		<div>打包下载所有:</div>
-
-		<div class="grid">
-			<a class="s12 m12 l4" href="/astatine-gear/font-unifont/unifont-15.1.04.7z"> <button class="responsive small elevate"> <i>folder_zip</i> unifont-15.1.04.zip</button> </a>
-		</div>
-
 	</article>
 
 	<div class="large-space"></div>
